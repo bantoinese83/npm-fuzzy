@@ -1,6 +1,6 @@
 {
   "name": "npm-fuzzy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Fast fuzzy string matching library for JavaScript/TypeScript with 10/10 performance score",
   "main": "dist/index.js",
