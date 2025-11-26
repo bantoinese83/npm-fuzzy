@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2025-01-XX
+
+### Changed
+- Enhanced README with professional badges, improved structure, and better documentation
+- Removed internal publishing steps and architecture details from README
+- Added comprehensive examples and use cases
+- Improved API documentation with "Use when" guidance
+
 ## [1.0.0] - 2024-12-XX
 
 ### Added
