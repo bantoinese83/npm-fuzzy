@@ -6,3 +6,5 @@ coverage/
 .idea/
 .vscode/
 *.tsbuildinfo
+*.tgz
+npm-fuzzy-*.tgz
