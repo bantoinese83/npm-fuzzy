@@ -1,0 +1,30 @@
+# Source files
+src/
+tests/
+*.test.ts
+*.test.js
+
+# Configuration files
+tsconfig.json
+rollup.config.js
+vitest.config.ts
+knip.json
+.eslintrc.json
+.prettierrc.json
+.prettierignore
+
+# Development files
+.gitignore
+node_modules/
+coverage/
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.tsbuildinfo
+
+# Documentation (keep README.md)
+TEST_COVERAGE.md
+
+# Build artifacts (only dist/ should be published)
+*.map
